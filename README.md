@@ -1,8 +1,7 @@
 # RxDagger2Demo-master
 
 #####Introduction
-RxDagger showcases the use of Square's [Retrofit](http://square.github.io/retrofit/) and [RxJava](https://github.com/ReactiveX/RxJava/wiki) to make asynchronous HTTP Requests in Android Application. The App makes HTTP GET requests to the [Blizzard API](https://dev.battle.net/) to retrieve **Mounts** and **mounts URL** and
-added Dagger2 for Dependency Injection Application.You can see how all of these libraries will save you time and money and a lot boilerplate. Now the project contains Lambdas and Method Expression.
+RxDagger showcases the use of Square's [Retrofit](http://square.github.io/retrofit/) and [RxJava](https://github.com/ReactiveX/RxJava/wiki) to make asynchronous HTTP Requests in Android Application.
 
 #####The Setup
 Let's take care of the depency injection for retrofit and RxJava/RxAndroid:
