@@ -1,7 +1,7 @@
 # RxDagger2Demo-master
 
 #####Introduction
-RxDagger showcases the use of Square's [Retrofit](http://square.github.io/retrofit/) and [RxJava](https://github.com/ReactiveX/RxJava/wiki) to make asynchronous HTTP Requests in Android Application.
+RxDagger showcases the use of Square's [Retrofit](http://square.github.io/retrofit/) and [RxJava](https://github.com/ReactiveX/RxJava/wiki), [Dagger](http://square.github.io/dagger/) and the MVP Architecture to make asynchronous HTTP Requests in Android Application.
 
 #####The Setup
 Let's take care of the depency injection for retrofit and RxJava/RxAndroid:
